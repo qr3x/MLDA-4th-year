@@ -18,4 +18,4 @@ source venv/Scripts/activate  // Windows: wsl or git bash
 jupyter notebook
 ```
 
-3. 
+3. Use Jupyter Notebook GUI for working with Statistical classification.ipynb
