@@ -16,11 +16,11 @@ source venv/Scripts/activate  // Windows: wsl or git bash
 jupyter notebook
 ```
 
-3. Use Jupyter Notebook GUI for working with Statistical classification.ipynb
+3. Use Jupyter Notebook GUI for working with `Statistical classification.ipynb`
 
 ## Libraries
 1. Pandas
 
 ## Sources
-* dataset: [Kaggle link](https://www.kaggle.com/datasets/alexteboul/heart-disease-health-indicators-dataset/); [local file](dataset.csv)
+* Dataset: [Kaggle link](https://www.kaggle.com/datasets/alexteboul/heart-disease-health-indicators-dataset/); [local file](dataset.csv)
 * Theory assignment folder: [Yandex.Disk](https://disk.yandex.ru/d/AL50BqlKPv8jQg)
