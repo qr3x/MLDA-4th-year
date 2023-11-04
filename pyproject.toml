@@ -11,6 +11,7 @@ numpy = "^1.26.1"
 matplotlib = "^3.8.1"
 pandas = "^2.1.2"
 notebook = "^7.0.6"
+seaborn = "^0.13.0"
 
 
 [build-system]
